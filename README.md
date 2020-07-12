@@ -11,14 +11,14 @@ If you have any questions please don't hesitate to contact me. Especially, if yo
 
 ## Core concepts:
 ### Why learning R can accelerate your research
-![Submit your genes of interest](./data/docs/intro.png)
+![Getting started](./data/docs/intro.png)
 
 ### Wrangling datasets in R
-![Submit your genes of interest](./data/docs/wrangling.png)
+![Modifying tables](./data/docs/wrangling.png)
 
 ### Plotting datasets in R
-![Submit your genes of interest](./data/docs/plotting.png)
+![Plotting](./data/docs/plotting.png)
 
 ### Further resources to continue learning R
-![Submit your genes of interest](./data/docs/learning.png)
+![Further information](./data/docs/learning.png)
 
